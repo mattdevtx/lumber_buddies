@@ -1,7 +1,7 @@
 # Lumber Buddies - A Web Game about a Lumberyard
 
 ## About
-The goal of the game will be to  keep customers happy by fulfilling their orders as they enter the lumberard.
+The goal of the game will be to  keep customers happy by fulfilling their orders as they enter the lumberyard.
 
 ## Built with:
 * HTML
